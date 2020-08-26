@@ -1,0 +1,3 @@
+include ':flowtag'
+include ':app'
+rootProject.name = "FlowTag"
